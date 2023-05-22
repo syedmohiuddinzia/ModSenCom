@@ -8,8 +8,7 @@ This repository is added to provide simple code for Arduino Modbus communication
 4. Extract [ModbusClientX.zip](https://github.com/syedmohiuddinzia/ModSenCom/blob/main/ModbusClientX.zip) and run ***ModbusClientX.exe*** in release directory.
 5. Connect RS485 Sensor using RS485 to UART module as shown in the image below such that
 
-    | RS485   | RS485 | Arduino |
-    | Sensor  |  UART | MCU     |
+    | RS485 Sensor | RS485  UART | Arduino MCU |
     |---------|-------|---------|
     | A       | A     |         |
     | B       | B     |         |
